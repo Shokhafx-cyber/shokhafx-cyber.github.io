@@ -1,0 +1,4 @@
+/* Smooth scroll for in-page links */
+html { scroll-behavior: smooth; }
+/* Nice radial accents */
+.blob { filter: blur(32px); opacity: 0.5; }
